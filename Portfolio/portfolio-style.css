@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 200px;
+    display: inline-block;
+}
+#wrapper div{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightblue;
+    height: 200px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+h1{
+    font-family: arial;
+    text-align: center;
+}
